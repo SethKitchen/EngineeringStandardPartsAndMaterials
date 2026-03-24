@@ -1,0 +1,1033 @@
+{
+  "format": "PermitCAD",
+  "schemaVersion": 1,
+  "branding": "PermitCAD by Seth Jamison Kitchen (PE)",
+  "globalDisplayUnit": "inches",
+  "wireframeVisible": false,
+  "workspace": {
+    "activeSketchIndex": 0,
+    "sketches": [
+      {
+        "sketchLabel": "Part",
+        "plane": "front",
+        "tool": "addPoint",
+        "points": [],
+        "pointUnits": [],
+        "pointLabels": [],
+        "profileClosed": false,
+        "extrusionDepth": 120.0,
+        "hasExtrusion": false,
+        "extrusionPlane": "front",
+        "extrusionDirection": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "extrusionKind": "solid",
+        "lineUnits": [],
+        "lineLabels": [],
+        "lineTypes": [],
+        "lineConstraints": [],
+        "lineModes": [],
+        "extrusionUnit": "inches",
+        "shapeLabel": null,
+        "extrusionLabel": null,
+        "isRevolve": false,
+        "revolveDegrees": 360.0,
+        "bakedSolid": {
+          "polygons": [
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "front"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "back"
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 0
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 0
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 1
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 1
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 2
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 2
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 3
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 3
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 4
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": 2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 4
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 5
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 5
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 6
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": 63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 6
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 7
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 7
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 8
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": 165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 8
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 9
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -2.921,
+                  "y": 165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 9
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 10
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                },
+                {
+                  "x": -2.921,
+                  "y": -165.989,
+                  "z": 0.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 10
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 11
+              }
+            },
+            {
+              "vertices": [
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 0.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -174.498,
+                  "z": 12192.0
+                },
+                {
+                  "x": -63.5,
+                  "y": -165.989,
+                  "z": 12192.0
+                }
+              ],
+              "source": {
+                "sketchIndex": 0,
+                "role": "side",
+                "lineIndex": 11
+              }
+            }
+          ]
+        },
+        "material": {
+          "name": "Structural Steel (A36)",
+          "description": "Standard structural carbon steel used in construction and heavy equipment.",
+          "density": {
+            "value": 7850.0,
+            "unit": "kg/m³",
+            "description": "Density (ρ)",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificGravity": {
+            "value": 7.85,
+            "unit": "",
+            "description": "Specific Gravity",
+            "source": "GPT-5.4"
+          },
+          "porosity": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Porosity",
+            "source": "GPT-5.4"
+          },
+          "moistureContent": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Moisture Content",
+            "source": "GPT-5.4"
+          },
+          "thermalExpansionCoefficient": {
+            "value": 12.0,
+            "unit": "µm/(m·K)",
+            "description": "Thermal Expansion",
+            "source": "Gemini 3.1 Pro"
+          },
+          "youngsModulus": {
+            "value": 200.0,
+            "unit": "GPa",
+            "description": "Young’s Modulus",
+            "source": "Gemini 3.1 Pro"
+          },
+          "shearModulus": {
+            "value": 79.3,
+            "unit": "GPa",
+            "description": "Shear Modulus",
+            "source": "Gemini 3.1 Pro"
+          },
+          "bulkModulus": {
+            "value": 138.889,
+            "unit": "GPa",
+            "description": "Bulk Modulus (K)",
+            "source": "GPT-5.4"
+          },
+          "poissonsRatio": {
+            "value": 0.26,
+            "unit": "",
+            "description": "Poisson’s Ratio",
+            "source": "Gemini 3.1 Pro"
+          },
+          "yieldStrength": {
+            "value": 250.0,
+            "unit": "MPa",
+            "description": "Yield Strength",
+            "source": "Gemini 3.1 Pro"
+          },
+          "ultimateTensileStrength": {
+            "value": 400.0,
+            "unit": "MPa",
+            "description": "Ultimate Tensile Strength",
+            "source": "Gemini 3.1 Pro"
+          },
+          "compressiveStrength": {
+            "value": 250.0,
+            "unit": "MPa",
+            "description": "Compressive Strength",
+            "source": "GPT-5.4"
+          },
+          "shearStrength": {
+            "value": 232.0,
+            "unit": "MPa",
+            "description": "Shear Strength",
+            "source": "GPT-5.4"
+          },
+          "hardness": {
+            "value": 120.0,
+            "unit": "HB",
+            "description": "Hardness (Brinell, Rockwell, Vickers)",
+            "source": "GPT-5.4"
+          },
+          "elongationAtBreak": {
+            "value": 20.0,
+            "unit": "%",
+            "description": "Elongation at Break",
+            "source": "Gemini 3.1 Pro"
+          },
+          "reductionInArea": {
+            "value": 40.0,
+            "unit": "%",
+            "description": "Reduction in Area",
+            "source": "GPT-5.4"
+          },
+          "thermalConductivity": {
+            "value": 54.0,
+            "unit": "W/(m·K)",
+            "description": "Thermal Conductivity",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificHeatCapacity": {
+            "value": 473.0,
+            "unit": "J/(kg·K)",
+            "description": "Specific Heat",
+            "source": "Gemini 3.1 Pro"
+          },
+          "glassTransitionTemperature": {
+            "value": 1425.0,
+            "unit": "°C",
+            "description": "Melting Point / Glass Transition Temperature",
+            "source": "GPT-5.4"
+          },
+          "electricalConductivity": {
+            "value": 7143000.0,
+            "unit": "S/m",
+            "description": "Electrical Conductivity (σ)",
+            "source": "GPT-5.4"
+          },
+          "electricalResistivity": {
+            "value": 1.4e-7,
+            "unit": "Ω·m",
+            "description": "Electrical Resistivity",
+            "source": "Gemini 3.1 Pro"
+          },
+          "waterAbsorption": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Water Absorption (%)",
+            "source": "GPT-5.4"
+          },
+          "texturePath": "assets/standard_library/textures/steel.jpg"
+        }
+      }
+    ]
+  }
+}

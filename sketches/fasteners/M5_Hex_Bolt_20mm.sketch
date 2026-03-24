@@ -1,0 +1,260 @@
+{
+  "format": "PermitCAD",
+  "schemaVersion": 1,
+  "branding": "PermitCAD by Seth Jamison Kitchen (PE)",
+  "globalDisplayUnit": "millimeters",
+  "wireframeVisible": false,
+  "workspace": {
+    "activeSketchIndex": 0,
+    "sketches": [
+      {
+        "sketchLabel": null,
+        "plane": "front",
+        "tool": "addPoint",
+        "points": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 2.5,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 2.5,
+            "y": 16.5,
+            "z": 0.0
+          },
+          {
+            "x": 4.619,
+            "y": 16.5,
+            "z": 0.0
+          },
+          {
+            "x": 4.619,
+            "y": 20.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 20.0,
+            "z": 0.0
+          }
+        ],
+        "pointUnits": [
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters"
+        ],
+        "pointLabels": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "profileClosed": true,
+        "extrusionDepth": 120.0,
+        "hasExtrusion": true,
+        "extrusionPlane": "front",
+        "extrusionDirection": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "extrusionKind": "solid",
+        "lineUnits": [
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters",
+          "millimeters"
+        ],
+        "lineLabels": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "lineTypes": [
+          "straight",
+          "straight",
+          "straight",
+          "straight",
+          "straight",
+          "straight"
+        ],
+        "lineConstraints": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "lineModes": [
+          "moveFree",
+          "moveFree",
+          "moveFree",
+          "moveFree",
+          "moveFree",
+          "moveFree"
+        ],
+        "extrusionUnit": "millimeters",
+        "shapeLabel": null,
+        "extrusionLabel": null,
+        "isRevolve": true,
+        "revolveDegrees": 360.0,
+        "revolveAxisLineIndex": 5,
+        "threadType": "M5",
+        "bakedSolid": null,
+        "material": {
+          "name": "Stainless Steel (304)",
+          "description": "Common austenitic stainless steel with excellent corrosion resistance.",
+          "density": {
+            "value": 8000.0,
+            "unit": "kg/m³",
+            "description": "Density (ρ)",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificGravity": {
+            "value": 8.0,
+            "unit": "",
+            "description": "Specific Gravity",
+            "source": "GPT-5.4"
+          },
+          "porosity": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Porosity",
+            "source": "GPT-5.4"
+          },
+          "moistureContent": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Moisture Content",
+            "source": "GPT-5.4"
+          },
+          "thermalExpansionCoefficient": {
+            "value": 17.2,
+            "unit": "µm/(m·K)",
+            "description": "Thermal Expansion",
+            "source": "Gemini 3.1 Pro"
+          },
+          "youngsModulus": {
+            "value": 193.0,
+            "unit": "GPa",
+            "description": "Young’s Modulus",
+            "source": "Gemini 3.1 Pro"
+          },
+          "shearModulus": {
+            "value": 77.0,
+            "unit": "GPa",
+            "description": "Shear Modulus",
+            "source": "Gemini 3.1 Pro"
+          },
+          "bulkModulus": {
+            "value": 153.175,
+            "unit": "GPa",
+            "description": "Bulk Modulus (K)",
+            "source": "GPT-5.4"
+          },
+          "poissonsRatio": {
+            "value": 0.29,
+            "unit": "",
+            "description": "Poisson’s Ratio",
+            "source": "Gemini 3.1 Pro"
+          },
+          "yieldStrength": {
+            "value": 215.0,
+            "unit": "MPa",
+            "description": "Yield Strength",
+            "source": "Gemini 3.1 Pro"
+          },
+          "ultimateTensileStrength": {
+            "value": 505.0,
+            "unit": "MPa",
+            "description": "Ultimate Tensile Strength",
+            "source": "Gemini 3.1 Pro"
+          },
+          "compressiveStrength": {
+            "value": 215.0,
+            "unit": "MPa",
+            "description": "Compressive Strength",
+            "source": "GPT-5.4"
+          },
+          "shearStrength": {
+            "value": 292.9,
+            "unit": "MPa",
+            "description": "Shear Strength",
+            "source": "GPT-5.4"
+          },
+          "hardness": {
+            "value": 123.0,
+            "unit": "HB",
+            "description": "Hardness (Brinell, Rockwell, Vickers)",
+            "source": "GPT-5.4"
+          },
+          "elongationAtBreak": {
+            "value": 70.0,
+            "unit": "%",
+            "description": "Elongation at Break",
+            "source": "Gemini 3.1 Pro"
+          },
+          "reductionInArea": {
+            "value": 75.0,
+            "unit": "%",
+            "description": "Reduction in Area",
+            "source": "GPT-5.4"
+          },
+          "thermalConductivity": {
+            "value": 16.2,
+            "unit": "W/(m·K)",
+            "description": "Thermal Conductivity",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificHeatCapacity": {
+            "value": 500.0,
+            "unit": "J/(kg·K)",
+            "description": "Specific Heat",
+            "source": "Gemini 3.1 Pro"
+          },
+          "glassTransitionTemperature": {
+            "value": 1400.0,
+            "unit": "°C",
+            "description": "Melting Point / Glass Transition Temperature",
+            "source": "GPT-5.4"
+          },
+          "electricalConductivity": {
+            "value": 1389000.0,
+            "unit": "S/m",
+            "description": "Electrical Conductivity (σ)",
+            "source": "GPT-5.4"
+          },
+          "electricalResistivity": {
+            "value": 7.2e-7,
+            "unit": "Ω·m",
+            "description": "Electrical Resistivity",
+            "source": "Gemini 3.1 Pro"
+          },
+          "waterAbsorption": {
+            "value": 0.0,
+            "unit": "%",
+            "description": "Water Absorption (%)",
+            "source": "GPT-5.4"
+          },
+          "texturePath": "assets/standard_library/textures/steel_stainless.jpg"
+        }
+      }
+    ]
+  }
+}

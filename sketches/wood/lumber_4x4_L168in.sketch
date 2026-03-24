@@ -1,0 +1,230 @@
+{
+  "format": "PermitCAD",
+  "schemaVersion": 1,
+  "branding": "PermitCAD by Seth Jamison Kitchen (PE)",
+  "globalDisplayUnit": "inches",
+  "wireframeVisible": false,
+  "workspace": {
+    "activeSketchIndex": 0,
+    "sketches": [
+      {
+        "sketchLabel": "lumber_4x4_L168in",
+        "plane": "top",
+        "tool": "addPoint",
+        "points": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 88.89999999999999,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 88.89999999999999,
+            "y": 88.89999999999999,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 88.89999999999999,
+            "z": 0.0
+          }
+        ],
+        "pointUnits": [
+          "inches",
+          "inches",
+          "inches",
+          "inches"
+        ],
+        "pointLabels": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "profileClosed": true,
+        "extrusionDepth": 4267.2,
+        "hasExtrusion": true,
+        "extrusionPlane": "top",
+        "extrusionDirection": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0
+        },
+        "extrusionKind": "solid",
+        "lineUnits": [
+          "inches",
+          "inches",
+          "inches",
+          "millimeters"
+        ],
+        "lineLabels": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "lineTypes": [
+          "straight",
+          "straight",
+          "straight",
+          "straight"
+        ],
+        "lineConstraints": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "lineModes": [
+          "moveFree",
+          "moveFree",
+          "moveFree",
+          "moveFree"
+        ],
+        "extrusionUnit": "inches",
+        "shapeLabel": null,
+        "extrusionLabel": null,
+        "isRevolve": false,
+        "revolveDegrees": 360.0,
+        "bakedSolid": null,
+        "material": {
+          "name": "Pine Wood",
+          "description": "A common softwood widely used in framing and construction.",
+          "density": {
+            "value": 400.0,
+            "unit": "kg/m³",
+            "description": "Density (ρ)",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificGravity": {
+            "value": 0.4,
+            "unit": "",
+            "description": "Specific Gravity",
+            "source": "GPT-5.4"
+          },
+          "porosity": {
+            "value": 73.333,
+            "unit": "%",
+            "description": "Porosity",
+            "source": "GPT-5.4"
+          },
+          "moistureContent": {
+            "value": 12.0,
+            "unit": "%",
+            "description": "Moisture Content",
+            "source": "GPT-5.4"
+          },
+          "thermalExpansionCoefficient": {
+            "value": 4.0,
+            "unit": "µm/(m·K)",
+            "description": "Thermal Expansion",
+            "source": "GPT-5.4"
+          },
+          "youngsModulus": {
+            "value": 9.0,
+            "unit": "GPa",
+            "description": "Young’s Modulus",
+            "source": "Gemini 3.1 Pro"
+          },
+          "shearModulus": {
+            "value": 3.333,
+            "unit": "GPa",
+            "description": "Shear Modulus (G)",
+            "source": "GPT-5.4"
+          },
+          "bulkModulus": {
+            "value": 10.0,
+            "unit": "GPa",
+            "description": "Bulk Modulus (K)",
+            "source": "GPT-5.4"
+          },
+          "poissonsRatio": {
+            "value": 0.35,
+            "unit": "",
+            "description": "Poisson’s Ratio",
+            "source": "GPT-5.4"
+          },
+          "yieldStrength": {
+            "unit": "",
+            "description": "Yield Strength (σᵧ)"
+          },
+          "ultimateTensileStrength": {
+            "unit": "",
+            "description": "Ultimate Tensile Strength (σᵤ)"
+          },
+          "compressiveStrength": {
+            "value": 30.0,
+            "unit": "MPa",
+            "description": "Compressive Strength",
+            "source": "Gemini 3.1 Pro"
+          },
+          "shearStrength": {
+            "value": 7.5,
+            "unit": "MPa",
+            "description": "Shear Strength",
+            "source": "GPT-5.4"
+          },
+          "hardness": {
+            "value": 2.0,
+            "unit": "HB",
+            "description": "Hardness (Brinell, Rockwell, Vickers)",
+            "source": "GPT-5.4"
+          },
+          "elongationAtBreak": {
+            "value": 1.3,
+            "unit": "%",
+            "description": "Elongation at Break",
+            "source": "GPT-5.4"
+          },
+          "reductionInArea": {
+            "value": 0.8,
+            "unit": "%",
+            "description": "Reduction in Area",
+            "source": "GPT-5.4"
+          },
+          "thermalConductivity": {
+            "value": 0.12,
+            "unit": "W/(m·K)",
+            "description": "Thermal Conductivity",
+            "source": "Gemini 3.1 Pro"
+          },
+          "specificHeatCapacity": {
+            "value": 1700.0,
+            "unit": "J/(kg·K)",
+            "description": "Specific Heat",
+            "source": "GPT-5.4"
+          },
+          "glassTransitionTemperature": {
+            "value": 300.0,
+            "unit": "°C",
+            "description": "Melting Point / Glass Transition Temperature",
+            "source": "GPT-5.4"
+          },
+          "electricalConductivity": {
+            "value": 2e-11,
+            "unit": "S/m",
+            "description": "Electrical Conductivity (σ)",
+            "source": "GPT-5.4"
+          },
+          "electricalResistivity": {
+            "value": 50000000000.0,
+            "unit": "Ω·m",
+            "description": "Electrical Resistivity (ρₑ)",
+            "source": "GPT-5.4"
+          },
+          "waterAbsorption": {
+            "value": 20.0,
+            "unit": "%",
+            "description": "Water Absorption",
+            "source": "Gemini 3.1 Pro"
+          },
+          "texturePath": "assets/standard_library/textures/wood_pine.jpg"
+        }
+      }
+    ]
+  }
+}
